@@ -26,16 +26,15 @@ Welcome to the Hospital Management System! This system allows users to manage ap
 ## Database - MySQL
 
 
+### Schema Diagram
+![Schema Diagram](Database/Schema.png)
+
 
 ### Creation of Database
-![Schema Diagram](Database/Schema.png)
-1. Open your MySQL client or command-line interface.
-2. Execute the following SQL command to create the database named `hospital_db`:
-   ```sql
 
 ![Database_Creation](Database/db_creation.png)
 
-    Creation of Tables
+### Creation of Tables
 ![Patient](Database/patient_tablecreation.png)
 ![Doctor](Database/doctor_tablecreation.png)
 ![Appointment](Database/appointement_tablecreation.png)
@@ -51,7 +50,7 @@ Welcome to the Hospital Management System! This system allows users to manage ap
 ### Setup
 * Clone the repository:
 
-    git clone https://github.com/anchals0915/Hospital-Management-System.git
+        git clone https://github.com/anchals0915/Hospital-Management-System.git
 
 *   Import the project into Eclipse.
 *   Create a MySQL database named hospital.
@@ -62,4 +61,4 @@ Welcome to the Hospital Management System! This system allows users to manage ap
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to open an issue or submit a pull request.
 
 ##  Author
-Anchal Singh 
+[Anchal Singh](https://www.linkedin.com/in/anchalsingh1509/)
